@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dt_username</name>
+   <tag></tag>
+   <elementGuidId>d13250d1-d9da-4276-92d0-4ea4693f4460</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dd[contains(text(),'hai')]/preceding-sibling::dt</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>dt.chakra-stat__label.css-14go5ty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dt</value>
+      <webElementGuid>5383d195-d487-4fc6-9977-d71a94821a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stat__label css-14go5ty</value>
+      <webElementGuid>4acac111-7627-4fb7-894a-11c3f90c5509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>110823test</value>
+      <webElementGuid>46ec9b1f-5679-4a9f-8d0f-24359f923851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-trlcwy&quot;]/div[@class=&quot;css-13pc7q0&quot;]/div[@class=&quot;chakra-stat css-1mbo1ls&quot;]/dl[1]/dt[@class=&quot;chakra-stat__label css-14go5ty&quot;]</value>
+      <webElementGuid>e7f72552-b8b3-4159-84d3-1d2999b52988</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/dl/dt</value>
+      <webElementGuid>9caefef0-1b4e-4827-96f5-93fd16c9da05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::dt[1]</value>
+      <webElementGuid>c43a1c3c-e0c0-4086-8899-f963e346e3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hai'])[1]/preceding::dt[1]</value>
+      <webElementGuid>4c1b0f41-6afa-441f-b8bf-549b5b78aa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='penjualan'])[2]/preceding::dt[1]</value>
+      <webElementGuid>b81245e2-00d8-40b5-8a72-6fac324c41b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dt</value>
+      <webElementGuid>39540375-feef-4fec-9752-8e3852f2c60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dt[(text() = '110823test' or . = '110823test')]</value>
+      <webElementGuid>9772c485-4889-4fe0-88a8-20712e06afe2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
